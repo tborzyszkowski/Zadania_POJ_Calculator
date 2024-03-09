@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    29.10.2023 23:00  |   5        |
+|    24.03.2024 23:00  |   5        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -14,15 +14,15 @@ W katalogu `src` znajduje się wstępna implementacja klasy kalkulator wraz z pr
 ## Zadanie 1
 
 Dodaj brakujące testy dla operacji dodawania i mnożenia.
-Pomyśl o testach na krańcach dziedziny. 
+Pomyśl o testach na krańcach dziedziny. Wprowadź obsługę błędów.
 
 ## Zadanie 2
 
 Dodaj do kalkulatora dwie nowe operacje wraz z testami. 
 Najmniej jedna z operacji powinna posiadać jakieś wykluczenia z dziedziny,
-np. opracja dzielenia i dzielenie przez 0. 
+np. opracja dzielenia lub logarytmowania lub ... . 
 
 ## Zadanie 3
 
 Dodaj do kalkulatora możliwość przechowywania wyniku w pamięci oraz wykonywania operacji 
-z wykorzystaniem danych przechowywanych w pamięci.
+z wykorzystaniem danych przechowywanych w pamięci. Uzupełnij testy by dotyczyły także operacji przeprowadzanych w pamięci.
