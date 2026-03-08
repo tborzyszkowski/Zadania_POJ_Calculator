@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|    23.03.2025 23:00  |   10        |
+|    22.03.2026 23:00  |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -26,3 +26,6 @@ np. opracja dzielenia lub logarytmowania lub ... .
 
 Dodaj do kalkulatora możliwość przechowywania wyniku w pamięci oraz wykonywania operacji 
 z wykorzystaniem danych przechowywanych w pamięci. Uzupełnij testy by dotyczyły także operacji przeprowadzanych w pamięci.
+
+## UWAGA
+Rozwiązanie powinno spełniać [Single Responsibility Principle](https://github.com/tborzyszkowski/oop-concepts-java/tree/main/03_ADVANCED/src/solid/single_responsibility)
